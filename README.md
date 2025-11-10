@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rudr 👋</h1>
+<h1 align="center">Hi, I'm Prashant Mishra 👋</h1>
 <h3 align="center">A passionate self-taught developer & DSA learner from India 🇮🇳</h3>
 
 ---
