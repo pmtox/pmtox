@@ -42,8 +42,7 @@
 
 ### 🚀 Projects
 - 🔍 Fake News Detection using Logistic Regression  
-- 🎮 Random Password Generator (JS)  
-- 📚 Book Management System (C++)  
+- 🎮 Random Password Generator (JS)
 - 🧠 DSA Practice Repo  
 
 ---
