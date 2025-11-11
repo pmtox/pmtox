@@ -7,8 +7,7 @@
 - 🌱 Currently mastering **DSA with C++**
 - 💻 Learning **Python**, **SQL**, and building cool mini-projects  
 - 🔥 Future project: **Building my own Web Browser in C++**
-- 🎯 Goals: Become a solid backend/system developer  
-- 📚 I study 6–7 hrs daily and love improving myself
+- 🎯 Goals: Become a solid backend/system developer 
 
 ---
 
