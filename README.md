@@ -25,21 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmtox&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmtox&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pmtox&theme=radical" />
-</p>
-
----
-
 ### 🚀 Projects
 - 🔍 Fake News Detection using Logistic Regression  
 - 🎮 Random Password Generator (JS)
