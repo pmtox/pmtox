@@ -1,36 +1,76 @@
 <h1 align="center">Hi, I'm Prashant Mishra 👋</h1>
-<h3 align="center">A passionate self-taught developer & DSA learner from India 🇮🇳</h3>
+🚀 Aspiring Software Engineer | 💻 DSA with C++ | 🤖 AI & ML Enthusiast  
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently mastering **DSA with C++**
-- 💻 Learning **Python**, **SQL**, and building cool mini-projects  
-- 🔥 Future project: **Building my own Web Browser in C++**
-- 🎯 Goals: Become a solid backend/system developer 
+## 👨‍💻 About Me  
+
+- 🎓 Student & self-driven learner  
+- 🔥 Strong focus on **Data Structures & Algorithms (C++)**  
+- 🤖 Built AI/ML projects like **Fake News Detection**  
+- 🧠 Interested in **system-level thinking & core logic**  
+- 🌱 Currently improving **problem-solving, DSA & backend concepts**  
+- 🎯 Long-term goal: Build **real-world, impactful software**
 
 ---
 
-### 🛠️ Tech Stack
-**Languages**
+## 🛠️ Tech Stack  
+
+**Languages:**  
 - C++  
 - Python  
-- JavaScript (soon)
+- SQL (MySQL)  
+- JavaScript (learning soon)
 
-**Tools / Tech**
+**Core Skills:**  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Problem Solving  
+- Logic Building  
+
+**AI / ML:**  
+- Logistic Regression  
+- Vectorizers (TF-IDF / Count)  
+- Model Training & Evaluation  
+
+**Tools:**  
 - Git & GitHub  
-- MySQL  
-- HTML & CSS  
 - VS Code  
+- Linux / Kali Linux  
 
 ---
 
-### 🚀 Projects
-- 🔍 Fake News Detection using Logistic Regression  
-- 🎮 Random Password Generator (JS)
-- 🧠 DSA Practice Repo  
+## 📌 Projects  
+
+### 📰 Fake News Detection System  
+- Machine Learning based text classification  
+- Used Logistic Regression + Vectorization  
+- Focused on real-world misinformation problems  
+
+### 📚 Book Management System (C++)  
+- Console-based system  
+- Applied OOP + DSA concepts  
+
+*(More projects coming soon…)*
 
 ---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmtox&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmtox&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+
+- GitHub: [https://github.com/pmtox](https://github.com/pmtox)
+
+---
+
+⭐ **"Consistency beats talent when talent doesn't stay consistent."**
+
 
 ### 🤝 Connect With Me
 <p>
