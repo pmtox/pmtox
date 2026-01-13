@@ -20,7 +20,6 @@
 - C++  
 - Python  
 - SQL (MySQL)  
-- JavaScript (learning soon)
 
 **Core Skills:**  
 - Data Structures & Algorithms  
