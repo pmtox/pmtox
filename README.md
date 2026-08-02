@@ -1,81 +1,94 @@
-<h1 align="center">Hi, I'm Prashant Mishra 👋</h1>
-🚀 Aspiring Software Engineer | 💻 DSA with C++ | 🤖 AI & ML Enthusiast  
+# <h1 align="center">Hey there 👋 I'm Prashant Mishra</h1>
 
----
-
-## 👨‍💻 About Me  
-
-- 🎓 Student & self-driven learner  
-- 🔥 Strong focus on **Data Structures & Algorithms (C++)**  
-- 🤖 Built AI/ML projects like **Fake News Detection**  
-- 🧠 Interested in **system-level thinking & core logic**  
-- 🌱 Currently improving **problem-solving, DSA & backend concepts**  
-- 🎯 Long-term goal: Build **real-world, impactful software**
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages:**  
-- C++  
-- Python  
-- SQL (MySQL)  
-
-**Core Skills:**  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Problem Solving  
-- Logic Building  
-
-**AI / ML:**  
-- Logistic Regression  
-- Vectorizers (TF-IDF / Count)  
-- Model Training & Evaluation  
-
-**Tools:**  
-- Git & GitHub  
-- VS Code  
-- Linux / Kali Linux  
-
----
-
-## 📌 Projects  
-
-### 📰 Fake News Detection System  
-- Machine Learning based text classification  
-- Used Logistic Regression + Vectorization  
-- Focused on real-world misinformation problems  
-
-### 📚 Book Management System (C++)  
-- Console-based system  
-- Applied OOP + DSA concepts  
-
-*(More projects coming soon…)*
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmtox&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pmtox&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me  
-
-- GitHub: [https://github.com/pmtox](https://github.com/pmtox)
-
----
-
-⭐ **"Consistency beats talent when talent doesn't stay consistent."**
-
-
-### 🤝 Connect With Me
-<p>
-  <a href="https://github.com/pmtox"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge"/></a>
+<p align="center">
+Software Engineering • Competitive Programming • AI & Backend Development
 </p>
 
 ---
 
-⭐ **If you like my projects, consider giving a star!**
+## 🚀 About Me
+
+* 🎓 B.Tech student passionate about solving challenging problems
+* 💻 Currently focused on **Data Structures & Algorithms using C++**
+* ⚡ Building backend applications with **Python, FastAPI & PostgreSQL**
+* 🤖 Interested in **Machine Learning, NLP and AI-powered applications**
+* 🌱 Learning system design fundamentals and scalable backend development
+* 🎯 Goal: Build software that solves real-world problems while becoming a strong Software Engineer
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* C++
+* Python
+* SQL
+
+### Backend
+
+* FastAPI
+* PostgreSQL
+* SQLAlchemy
+* REST APIs
+
+### AI / Machine Learning
+
+* Scikit-learn
+* Logistic Regression
+* TF-IDF & Count Vectorizer
+* Model Evaluation
+
+### Tools
+
+* Git & GitHub
+* Linux
+* VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 gyChat
+
+A modern messaging application built using **FastAPI** and **PostgreSQL** featuring secure authentication and a scalable backend architecture.
+
+### 📰 Fake News Detection
+
+A machine learning project that classifies news articles using **Logistic Regression** with TF-IDF vectorization.
+
+### 📚 Book Management System
+
+A C++ console application demonstrating **Object-Oriented Programming** and fundamental data structures.
+
+> More exciting projects are on the way.
+
+---
+
+## 📈 Currently Working On
+
+* 📚 Competitive Programming (Codeforces & LeetCode)
+* ⚙️ Backend Engineering
+* 🧠 Core Computer Science
+* 🤖 AI-powered applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmtox&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmtox&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+* GitHub → https://github.com/pmtox
+
+---
+
+<p align="center">
+<i>"Great software begins with great problem-solving."</i>
+</p>
