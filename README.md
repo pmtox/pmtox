@@ -1,4 +1,4 @@
-# <h1 align="center">Hey there 👋 I'm Prashant Mishra</h1>
+# <h1 align="center">Hey there! I'm Prashant Mishra</h1>
 
 <p align="center">
 Software Engineering • Competitive Programming • AI & Backend Development
@@ -6,7 +6,7 @@ Software Engineering • Competitive Programming • AI & Backend Development
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 B.Tech student passionate about solving challenging problems
 * 💻 Currently focused on **Data Structures & Algorithms using C++**
@@ -53,10 +53,6 @@ Software Engineering • Competitive Programming • AI & Backend Development
 
 A modern messaging application built using **FastAPI** and **PostgreSQL** featuring secure authentication and a scalable backend architecture.
 
-### 📰 Fake News Detection
-
-A machine learning project that classifies news articles using **Logistic Regression** with TF-IDF vectorization.
-
 ### 📚 Book Management System
 
 A C++ console application demonstrating **Object-Oriented Programming** and fundamental data structures.
@@ -71,15 +67,6 @@ A C++ console application demonstrating **Object-Oriented Programming** and fund
 * ⚙️ Backend Engineering
 * 🧠 Core Computer Science
 * 🤖 AI-powered applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmtox&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmtox&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
